@@ -1,0 +1,32 @@
+<additionals>
+
+   
+		
+		
+  
+
+    <interval begin="0" end="54000" >
+    <laneAreaDetector id="S_N_1" lanes="S2TL_0" pos="650" endPos="700" freq="30" file="detS.out.xml" speedThreshold="1.0" jamThreshold="100.0" />
+    <laneAreaDetector id="S_N_2" lanes="S2TL_1" pos="650" endPos="700" freq="30" file="detS.out.xml" speedThreshold="1.0" jamThreshold="100.0" />
+    <laneAreaDetector id="S_N_3" lanes="S2TL_2" pos="650" endPos="700" freq="30" file="detS.out.xml" speedThreshold="1.0" jamThreshold="100.0" />
+    <laneAreaDetector id="S_N_4" lanes="S2TL_3" pos="650" endPos="700" freq="30" file="detS.out.xml" speedThreshold="1.0" jamThreshold="100.0" />
+
+    <laneAreaDetector id="N_S_1" lanes="N2TL_0" pos="650" endPos="700" freq="30" file="detN.out.xml" speedThreshold="1.0" jamThreshold="100.0" />
+    <laneAreaDetector id="N_S_2" lanes="N2TL_1" pos="650" endPos="700" freq="30" file="detN.out.xml" speedThreshold="1.0" jamThreshold="100.0" />
+    <laneAreaDetector id="N_S_3" lanes="N2TL_2" pos="650" endPos="700" freq="30" file="detN.out.xml" speedThreshold="1.0" jamThreshold="100.0" />
+    <laneAreaDetector id="N_S_4" lanes="N2TL_3" pos="650" endPos="700" freq="30" file="detN.out.xml" speedThreshold="1.0" jamThreshold="100.0" />
+
+    <laneAreaDetector id="W_E_1" lanes="W2TL_0" pos="650" endPos="700" freq="30" file="detW.out.xml" speedThreshold="1.0" jamThreshold="100.0" />
+    <laneAreaDetector id="W_E_2" lanes="W2TL_1" pos="650" endPos="700" freq="30" file="detW.out.xml" speedThreshold="1.0" jamThreshold="100.0" />
+    <laneAreaDetector id="W_E_3" lanes="W2TL_2" pos="650" endPos="700" freq="30" file="detW.out.xml" speedThreshold="1.0" jamThreshold="100.0" />
+    <laneAreaDetector id="W_E_4" lanes="W2TL_3" pos="650" endPos="700" freq="30" file="detW.out.xml" speedThreshold="1.0" jamThreshold="100.0" />
+
+    <laneAreaDetector id="E_W_1" lanes="E2TL_0" pos="650" endPos="700" freq="30" file="detE.out.xml" speedThreshold="1.0" jamThreshold="100.0" />
+    <laneAreaDetector id="E_W_2" lanes="E2TL_1" pos="650" endPos="700" freq="30" file="detE.out.xml" speedThreshold="1.0" jamThreshold="100.0" />
+    <laneAreaDetector id="E_W_3" lanes="E2TL_2" pos="650" endPos="700" freq="30" file="detE.out.xml" speedThreshold="1.0" jamThreshold="100.0" />
+    <laneAreaDetector id="E_W_4" lanes="E2TL_3" pos="650" endPos="700" freq="30" file="detE.out.xml" speedThreshold="1.0" jamThreshold="100.0" />
+
+ 
+
+</interval>
+</additionals>
